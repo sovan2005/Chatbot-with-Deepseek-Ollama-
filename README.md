@@ -13,4 +13,7 @@ ollama serve
 
 
 
+For Simple ChatBot open CMD and run:
+1.cd 1.simple_chatbot
+2.streamlit run 1.simple_chatbot.py
 
