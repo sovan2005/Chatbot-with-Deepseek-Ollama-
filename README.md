@@ -7,6 +7,8 @@ Download Ollama and run:
 bash
 Copy
 Edit
+![Chatbot_with_Deepseek](https://github.com/user-attachments/assets/83724ef9-36ff-4ee2-a60f-a66d97b89617)
+
 ollama serve
 
 
