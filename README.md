@@ -16,7 +16,9 @@ For Simple ChatBot open CMD and run:
 
 
 For Chatbot with History open CMD and run:
+
 1.cd
+
 2.chatbot_with_history.py
 
 
