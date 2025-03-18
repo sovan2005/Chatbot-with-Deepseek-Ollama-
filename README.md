@@ -1,4 +1,5 @@
 1️⃣ Install Dependencies**  
+![alt text](https://github.com/sovan2005/Chatbot-with-Deepseek-Ollama-/blob/main/Images/Simple_Chatbot.png)
 ```bash
 pip install streamlit langchain-ollama langchain-core
 Install & Start Ollama
