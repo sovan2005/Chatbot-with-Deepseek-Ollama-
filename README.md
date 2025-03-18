@@ -23,6 +23,10 @@ For Chatbot with History open CMD and run:
 
 
 
+
+
+
+
 For deepseek ChatBot open CMD and run:
 1. cd
 2. streamlit run chat_deepseek.py
